@@ -1,2 +1,2 @@
-# farmesasy
-A crop advisory portal for farmers
+# Crop-Advisory-System
+ML based crop recommendation system
