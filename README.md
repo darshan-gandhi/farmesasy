@@ -1,18 +1,23 @@
 # Project Name
-Advising for Crop Cultivation using Machine Learning
+FarmEasy - Crop Recommendation Portal for Farmers 
 
 
 # Project Members
 Darshan Gandhi 
+
 Nipun Iyer
+
 Jeet Gujrathi 
+
 Rushabh Chheda 
 
-# Section One: Summary
 
-# Problem Definition - In order to mitigate the agrarian crisis in the current status quo, there is a need for better recommendation systems to alleviate the crisis by helping the farmers to make an informed decision before starting the cultivation of crops. The “Crop Advisor for Crop Cultivation using Machine Learning” will be an application that will suggest suitable crops to be cultivated based on various factors such as rainfall, temperature, soil type etc. 
 
-# Scope – To recommend optimum crops to be cultivated by farmers based on various parameters and help them make an informed decision before cultivation   
+# Problem Definition
+
+In order to mitigate the agrarian crisis in the current status quo, there is a need for better recommendation systems to alleviate the crisis by helping the farmers to make an informed decision before starting the cultivation of crops. The “Crop Advisor for Crop Cultivation using Machine Learning” will be an application that will suggest suitable crops to be cultivated based on various factors such as rainfall, temperature, soil type etc. 
+
+Scope – To recommend optimum crops to be cultivated by farmers based on various parameters and help them make an informed decision before cultivation   
 The application would entail the following modules with the following functionalities:
 
 1.) Web interface: The Web Interface will interact with the farmers to collect information and statistics
