@@ -4,11 +4,9 @@ Advising for Crop Cultivation using Machine Learning
 
 # Project Members
 Darshan Gandhi 
-
-# Directory 
-Please navigate to Crop-Advisory-System-master for the main coding logic, references, implementation details.
-It is the final folder
-
+Nipun Iyer
+Jeet Gujrathi 
+Rushabh Chheda 
 
 # Section One: Summary
 
@@ -34,105 +32,6 @@ Prediction based on the trained dataset
 3.) Cloud Database: Storing of information and subsequent transfer of information to Machine Learning agent
 
 Updation of Data
-
-
-	
-# Section Two: Activities and Metrics
-The activities and progress are as follows : 
-
-obtain relevant data
-
-progress - completed
-
-training and testing of model
-
-progress - completed and need to find more accurate algos
-
-GUI implementation
-
-progress completed
-
-Integration of backend and front end
-
-progress- completed
-
-Metrics : Accuracy score of ensemble methods 
-
-
-
-
-# Section Three: Institutional & Project Partner Issues
-The various changes and issues are as follows: 
-
-changes in the GUI 
-
-integration of the website and the speech-to-text convertor
-
-integrating the front end and back end 
-
-implementing more accurate models by carrying out data pre processing and data cleaning.
-
-
-# Section Four: Outputs and Deliverables
-
-Output and Deliverables -
-
-predicting the relevant crop to the farmer for their cultivation
-
-usage of algorithm having the highest accuracy  
-
-
-# Section Five: Outcomes and Lessons Learned
-The following outcomes have been observed -
-
-a)GUI implementation 
-
-b) training and testing of model 
-
-c) running different machine learning algos 
-
-d) integrating the backend with the front end
-
-e) provided speech input services to the farmers for ease of use
-
-
-# Section Six: Usage of Tools
-The various tools used are: 
-
-Flask 
-
-Bootstrap 
-
-Google colab 
-
-# Section Seven: Evaluation
-The various evaluation’s were regarding the following points :
-a) model accuracy score
-
-b) accuracy of the working of the speech to text conversion module 
-
-c) rss feed update
-
-# Section Eight: Dissemination
-Paper presentation, Project competition participation
-
-# Section Nine: Risks, Issues and Challenges 
-Following were the issues we faced:
-
-1)The major issue arose was to search and find out the various available datasets on the crop and agricultural department of India.
-
-2) The risk lies in the authenticity and availability of the dataset and thus we tried to make numerous calls and verifications for the same.
-
-3) We also tried to establish a communication with the IMD Associate Director-General for the same.
-
-4) Also, the selection of the algorithm was a major difficulty to understand which one should be selected depending on various factors such as the accuracy, efficiency and authenticity
-
-5) The accuracy of the speech to text conversion software was not up-to the mark 
-Section Nine: Collaboration and Support
-
-The areas of working on topics related to machine learning and data processing would be a topic of discussion with other groups.
-
-
 
 # Steps to run the code 
 
