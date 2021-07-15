@@ -59,4 +59,4 @@ Updation of Data
 
 # Conclusion 
 
-Here we have successfully built a web application which helps to suggest farmers crops they should intent to grow by taking in various parameters.
+Thus, here we have successfully built a web application which helps to suggest farmers crops they should intent to grow by taking in various parameters.
